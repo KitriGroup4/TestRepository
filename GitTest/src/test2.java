@@ -5,5 +5,6 @@ public class test2
 	{
 		System.out.println("main");
 		System.out.println("test");
+		System.out.println("test2");
 	}
 }
